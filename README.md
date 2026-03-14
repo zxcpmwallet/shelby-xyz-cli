@@ -1,7 +1,6 @@
-# shelby-xyz-cli
-# shelby testnet/shelbynet zxcpmwallet
+# shelby-cli-testnet/shelbynet zxcpmwallet
 
-# Shelby CLI Setup Guide
+## Shelby CLI Setup Guide
 ### For GitHub Codespaces
 
 ---
